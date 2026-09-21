@@ -2,7 +2,7 @@
 // CONFIGURATION: Edit your quiz data here!
 // ==========================================
 const GAME_CONFIG = {
-    title: "GK - Match The Following",
+    title: "Lesson 1 : National Parks",
     instruction: "Tap an item on the left, then tap its match on the right to pair them up.",
     data: [      	
 		{left: "Kanha National Park",  right: "Madhya Pradesh" },
